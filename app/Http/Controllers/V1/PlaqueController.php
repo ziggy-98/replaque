@@ -8,6 +8,9 @@ use Illuminate\Http\Request;
 
 class PlaqueController extends Controller
 {
+    /**
+     * PlaqueController constructor.
+     */
     public function __construct()
     {
         // Authentication required for these endpoints.
