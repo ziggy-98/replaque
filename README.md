@@ -108,5 +108,3 @@ For guidance on setting up the environment on Cloud9, please speak to Crispin.
 
 Deployment is done through [Heroku](https://www.heroku.com) whenever you
 push a commit to the `master` branch.
-
-*TODO*
