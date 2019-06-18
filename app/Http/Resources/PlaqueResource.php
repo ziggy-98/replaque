@@ -18,6 +18,8 @@ class PlaqueResource extends JsonResource
             'id' => $this->id,
             // TODO: Complete rest of fields.
             // https://laravel.com/docs/5.8/eloquent-resources#writing-resources
+            // TODO: Return dates/datetimes as ISO8601.
+            // https://carbon.nesbot.com/docs/#api-commonformats
         ];
     }
 }
