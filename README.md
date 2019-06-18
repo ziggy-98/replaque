@@ -102,7 +102,7 @@ and the API docs at [http://localhost/docs](http://localhost/docs).
 
 ### Cloud9
 
-*TODO*
+For guidance on setting up the environment on Cloud9, please speak to Crispin.
 
 ## Deploying
 
